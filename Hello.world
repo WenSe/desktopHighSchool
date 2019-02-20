@@ -6,6 +6,7 @@ public class Hello{
 		// do by master branch
 		// do by feature branch
 		// do by dev branch
+		// do by bug-1 branch
 	}
 
 }
